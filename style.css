@@ -22,14 +22,14 @@ html {
 
 a {
    text-decoration: none;
-	color: inherit;
+   color: inherit;
 }
 
 button {
-	padding: 0;
-	border: none;
-	background-color: transparent;
-	cursor: pointer;
+   padding: 0;
+   border: none;
+   background-color: transparent;
+   cursor: pointer;
 }
 
 ul {
